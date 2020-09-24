@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Weather/static/css/main.207c0fd9.chunk.css",
+    "main.js": "/Weather/static/js/main.5d25e953.chunk.js",
+    "main.js.map": "/Weather/static/js/main.5d25e953.chunk.js.map",
+    "runtime-main.js": "/Weather/static/js/runtime-main.22be1482.js",
+    "runtime-main.js.map": "/Weather/static/js/runtime-main.22be1482.js.map",
+    "static/js/2.d437b892.chunk.js": "/Weather/static/js/2.d437b892.chunk.js",
+    "static/js/2.d437b892.chunk.js.map": "/Weather/static/js/2.d437b892.chunk.js.map",
+    "index.html": "/Weather/index.html",
+    "precache-manifest.d662342e5686d137d6b9fabb5ca6e229.js": "/Weather/precache-manifest.d662342e5686d137d6b9fabb5ca6e229.js",
+    "service-worker.js": "/Weather/service-worker.js",
+    "static/css/main.207c0fd9.chunk.css.map": "/Weather/static/css/main.207c0fd9.chunk.css.map",
+    "static/js/2.d437b892.chunk.js.LICENSE.txt": "/Weather/static/js/2.d437b892.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Weather/static/media/warm-bg.da3d207b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22be1482.js",
+    "static/js/2.d437b892.chunk.js",
+    "static/css/main.207c0fd9.chunk.css",
+    "static/js/main.5d25e953.chunk.js"
+  ]
+}
